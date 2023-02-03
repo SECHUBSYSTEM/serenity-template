@@ -24,7 +24,7 @@ menuButton.addEventListener('click', (e) => {
     }
 
 
-})
+});
 
 
 const observer = new IntersectionObserver(entries => {
